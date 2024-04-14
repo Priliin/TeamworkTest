@@ -4,7 +4,7 @@ This is a simple Java application for managing a grocery list. The application a
 
 ## Features
 
-- **Add Items:** Users can add items to their grocery list along with quantity and any additional notes.
-- **Remove Items:** Items can be removed from the list with a single click.
-- **Update Items:** Users can edit the quantity or notes of existing items.
+- **Add Items:** Users can add items to their grocery list along with quantity.
+- **Remove Items:** Items can be removed from the list.
+- **Update Items:** Users can edit the quantity of existing items.
 - **View List:** Users can easily view their entire grocery list at a glance.
